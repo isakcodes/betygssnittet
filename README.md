@@ -1,6 +1,7 @@
 # betygssnittet
 Räknar ut ditt betygssnitt automatiskt i Ladok
 
+Byggd i bare-bones html/css/javascript utan några frameworks.
 
 ---
 
