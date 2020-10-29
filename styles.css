@@ -10,15 +10,8 @@ img {
 	padding-bottom: 10px;
 }
 
-.content {
-    padding-top: 100px !important;
-    padding-bottom: 100px !important;
-    position: relative;
-}
-
 h1 {
     line-height: 100%;
-    margin-bottom: 12px;
     font-size: 24px;
     color: #3d5875;
 }
@@ -27,14 +20,16 @@ h2 {
 	text-align: center;
     font-weight: 200;
     line-height: 100%;
-    margin-bottom: 0.5rem;
 }
 
 h3 {
 	text-align: center;
     font-weight: 100;
     line-height: 100%;
-    margin-bottom: 0.5rem;
+}
+
+.button {
+  text-align: center;
 }
 
 /* 

@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
     
     function setGrade(response) {
-        console.log(response);
+        //console.log(response);
         if (response !== undefined) {
             document.getElementById("gpa").innerHTML = `${response}`;
         }

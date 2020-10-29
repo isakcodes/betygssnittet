@@ -13,7 +13,7 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
         var cards = $("ladok-avslutad-kurs");//.find(".card-body");
         //console.log(cards.text());
         var number_of_cards = cards.length;
-        console.log("Found " + number_of_cards + " course cards");
+        //console.log("Found " + number_of_cards + " course cards");
 
         var arr = [];
         var points = [];
