@@ -1,4 +1,4 @@
-baseurl: 'https://isakcodes.github.io/betygssnittet/'
+baseurl: ''
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
