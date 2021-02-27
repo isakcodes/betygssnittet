@@ -1,4 +1,4 @@
-baseurl: 'docs'
+baseurl: ''
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
